@@ -145,7 +145,7 @@ These are the kinds of types passed through FFI:
 # Extra documentation
 
 - [Unsafe code guidelines] :<br>
-    Describes how to write unsafe code ,relating to this library.
+    Describes how to write unsafe code, relating to this library.
 
 - [Troubleshooting] :<br>
     Some problems and their solutions.
